@@ -35,10 +35,7 @@ I am a frontend-focused MERN stack developer passionate about building responsiv
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)  
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
-## 🌟 Projects
-- [Discount Pro](https://github.com/your-repo) - Bangladeshi e-commerce coupon codes platform
-- [Typing Speed Test](https://github.com/your-repo) - React-based typing speed testing website
-- [Dream 11 Cricket Team](https://github.com/your-repo) - Fantasy cricket player selector
+
 ## Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-rabiul-khan-77b417254)  
@@ -55,7 +52,7 @@ I am a frontend-focused MERN stack developer passionate about building responsiv
 
 ---
 
-✨ _Profile README created with ❤️ by [Md Rabiul Khan](https://github.com/rabiulkhan)_ ✨
+✨ _Profile README created with ❤️ by [Md Rabiul Hasan](https://github.com/rabiulkhan7224)_ ✨
 
 
 
