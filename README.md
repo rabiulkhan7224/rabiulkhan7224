@@ -40,7 +40,7 @@ I am a frontend-focused MERN stack developer passionate about building responsiv
 
 ## Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-rabiul-khan-77b417254)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/md-rabiul-hasan7224)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rabiulkhan7224)  
  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdrabiul.khan.351?mibextid=ZbWKwL)  
