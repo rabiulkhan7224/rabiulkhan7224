@@ -1,5 +1,4 @@
-<a href="https://ibb.co.com/b6KCL3s"><img src="https://i.ibb.co.com/grRfw7S/freepik-export-202501080121088-O09.jpg" alt="freepik-export-202501080121088-O09" border="0"></a>
-
+<a href="https://ibb.co.com/PjP6KH6"><img src="https://i.ibb.co.com/kBwSjCS/In-Shot-20250109-134121817.jpg" alt="In-Shot-20250109-134121817" border="0"></a>
 # Md Rabiul Hasan  
 ### Frontend-Focused MERN Stack Developer
 
