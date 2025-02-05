@@ -1,15 +1,39 @@
 <svg width="100%" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#1E1E1E"/>
-  
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007CF0; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00DFD8; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#gradient)"/>
+
   <!-- Profile Image -->
   <image href="https://your-image-link.com/profile.jpg" x="30" y="30" height="150px" width="150px" clip-path="circle()" />
-  
-  <!-- Text -->
+
+  <!-- Animated Text -->
   <text x="210" y="90" font-size="36" fill="#ffffff" font-family="Arial, sans-serif" font-weight="bold">
     Rabiul Khan
   </text>
   <text x="210" y="130" font-size="24" fill="#ffffff" font-family="Arial, sans-serif">
     Full-Stack Web Developer 🚀
   </text>
+
+  <!-- Icons (React, JavaScript, Node.js, MongoDB) -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="600" y="50" width="50px" height="50px">
+    <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 625 75" to="360 625 75" dur="5s" repeatCount="indefinite"/>
+  </image>
+  
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="670" y="50" width="50px" height="50px">
+    <animateTransform attributeType="XML" attributeName="transform" type="scale" values="1;1.2;1" dur="3s" repeatCount="indefinite"/>
+  </image>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="600" y="120" width="50px" height="50px">
+    <animate attributeType="XML" attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+  </image>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="670" y="120" width="50px" height="50px">
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="1.5s" repeatCount="indefinite"/>
+  </image>
 </svg>
+
