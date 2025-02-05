@@ -16,7 +16,7 @@
 - 🌱 Currently, I am learning **Next.js, cloud deployment, and advanced state management** to enhance my skills.  
 - 🎯 My goal is to develop **scalable and maintainable applications** that provide a seamless user experience.  
 - 🚀 I am always open to **collaborating on exciting projects** and contributing to open-source communities.  
-- 📫 How to reach me: **[Email Me](mailto:rabiulkhan7224@gmail.com)**  
+- 📫 How to reach me: **[Email Me](mailto:mdrabiulkhanbabo@gmail.com)**  
 
 
 ---
