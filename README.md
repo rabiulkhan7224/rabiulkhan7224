@@ -62,8 +62,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulkhan7224&theme=dark" alt="GitHub Streak" />
 </p>
 
----
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulkhan7224&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiulkhan7224)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rabiul-hasan7224)
