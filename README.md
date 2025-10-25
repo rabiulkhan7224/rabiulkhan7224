@@ -56,13 +56,19 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabiulkhan7224&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulkhan7224&theme=dark" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
+
+![rabiulkhan7224's Stats](https://github-readme-stats.vercel.app/api?username=rabiulkhan7224&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+
+
+![rabiulkhan7224's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rabiulkhan7224&theme=radical&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulkhan7224&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ## 📫 Connect With Me
